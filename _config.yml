@@ -16,8 +16,8 @@
 title: Devashru Patel
 email: devashru@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Site still under construction. 
-  It'll look cooler later, I promise.
+  Site still under construction. It'll look cooler later.
+  I promise.
   -Devashru Patel
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
